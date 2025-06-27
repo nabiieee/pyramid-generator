@@ -1,0 +1,12 @@
+.my-box{
+    background-color: lightpink;
+    width: 300px;
+    height: 300px;
+    font-size: 4rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+}
